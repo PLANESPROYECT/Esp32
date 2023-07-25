@@ -1,4 +1,4 @@
-//Control servo with an ESP32
+
 #include <Arduino.h>
 #include <ESP32Servo.h>
 
@@ -19,3 +19,4 @@ myServo.write(0);
 delay(1000);
 }
 
+// Code for PLANESCODE ESP32 
